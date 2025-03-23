@@ -1,4 +1,4 @@
-Pregnancies,Glucose,BMI,DiabetesPedigreeFunction,Age,charges
+Pregnancies,Glucose,BMI,DiabetesPedigreeFunction,Age,Outcome
 6.0,98.0,34.0,0.43,43.0,0
 2.0,112.0,35.7,0.148,21.0,0
 2.0,108.0,30.8,0.158,21.0,0
